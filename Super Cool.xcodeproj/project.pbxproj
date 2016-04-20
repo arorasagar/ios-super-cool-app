@@ -38,7 +38,7 @@
 		007CE15A1CBDC6AF000D15F8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		007CE15C1CBDC6AF000D15F8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		007CE15F1CBDC6B0000D15F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		007CE1611CBDC6B0000D15F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		007CE1611CBDC6B0000D15F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "Super Cool/Assets.xcassets"; sourceTree = "<group>"; };
 		007CE1641CBDC6B0000D15F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		007CE1661CBDC6B0000D15F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		007CE16B1CBDC6B0000D15F8 /* Super CoolTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Super CoolTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -80,6 +80,7 @@
 				007CE1591CBDC6AF000D15F8 /* Super Cool */,
 				007CE16E1CBDC6B0000D15F8 /* Super CoolTests */,
 				007CE1791CBDC6B0000D15F8 /* Super CoolUITests */,
+				007CE1611CBDC6B0000D15F8 /* Assets.xcassets */,
 				007CE1581CBDC6AF000D15F8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -100,7 +101,6 @@
 				007CE15A1CBDC6AF000D15F8 /* AppDelegate.swift */,
 				007CE15C1CBDC6AF000D15F8 /* ViewController.swift */,
 				007CE15E1CBDC6B0000D15F8 /* Main.storyboard */,
-				007CE1611CBDC6B0000D15F8 /* Assets.xcassets */,
 				007CE1631CBDC6B0000D15F8 /* LaunchScreen.storyboard */,
 				007CE1661CBDC6B0000D15F8 /* Info.plist */,
 			);
